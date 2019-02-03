@@ -76,6 +76,6 @@ osv.
 ---
 ## **Udlevering af løsninger**
 
-Én til to dage efter opgaven blev stillet vil løsningen blive lagt online (i vores `smaaopgaver-wuhf01` respository).
+Én til to dage efter opgaven er blevet stillet vil løsningen blive lagt online (i vores `smaaopgaver-wuhf01` repository).
 
 **Hvis du ikke blev færdig** i første omgang, vil jeg råde dig til, at gøre opgaven færdig **inden du kigger på løsningen**.
