@@ -59,11 +59,11 @@ Mens du er i gang med at løse en opgave, er det et **krav**, at du **committer 
 ***"Jeg glemmer hele tiden at committe"*** er en rigtig **dårlig undskyldning**. Find en løsning. Commits lang tid efter deadline betragtes som at du har svært ved at løse opgaven.
 
 ---
-## **Reflektion efter opgaven**
+## **Refleksion efter opgaven**
 
-Når tiden er gået, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Reflektion" markdown-fil** i roden af dit repository.
+Når tiden er gået, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Refleksion" markdown-fil** i roden af dit repository.
 
-I "Reflektion" markdown-filen skal der være en **overskrift til hver opgave** du ønsker at skrive om.
+I "Refleksion" markdown-filen skal der være en **overskrift til hver opgave** du ønsker at skrive om.
 
 **Hvis du ikke blev færdig**, skriv kort om hvad der var af **forhindringer**. <br>
 Føler du, at du koder for langsomt? <br>
