@@ -61,9 +61,12 @@ Mens du er i gang med at løse en opgave, er det et **krav**, at du **committer 
 ---
 ## **Refleksion efter opgaven**
 
-Når tiden er gået, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Refleksion" markdown-fil** i roden af dit repository.
+Når tiden er gået, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Refleksioner" markdown-fil** i roden af dit repository.
 
-I "Refleksion" markdown-filen skal der være en **overskrift til hver opgave** du ønsker at skrive om.
+Her er et **eksempel** på, hvordan indholdet af filen kunne se ud:
+[Skabeloner/Refleksioner.md](/Skabeloner/Refleksioner.md)
+
+I "Refleksioner" markdown-filen skal der være en **overskrift til hver opgave** du ønsker at skrive om, som vist i ovenstående eksempel.
 
 **Hvis du ikke blev færdig**, skriv kort om hvad der var af **forhindringer**. <br>
 Føler du, at du koder for langsomt? <br>
